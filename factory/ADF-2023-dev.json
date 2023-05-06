@@ -1,0 +1,9 @@
+{
+	"name": "ADF-2023-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5baa6a3b-d7c0-4867-ab27-271f2dc99ece",
+		"tenantId": "b3c0ba0d-0346-458a-bd4f-5d7790690a88"
+	}
+}
